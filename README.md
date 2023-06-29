@@ -1,1 +1,2 @@
-# clase5-2M6nodo
+# 0023Modulo6Sesion5.2
+Práctica de Handlebars
